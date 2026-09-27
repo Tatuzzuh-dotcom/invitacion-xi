@@ -43,7 +43,7 @@ body {
   max-width: 860px;
   height: 150px;
   margin: 0 auto;
-  background-image: linear-gradient(180deg, rgba(255,255,255,.28), rgba(255,255,255,.05)), url("assets/portada-clara.jpg");
+  background-image: linear-gradient(180deg, rgba(255,255,255,.28), rgba(255,255,255,.05)), url("./invitacion-xv-zoe/assets/portada-clara.jpg");
   background-size: cover;
   background-position: center center;
   border-radius: 0 0 20px 20px;
@@ -162,15 +162,15 @@ h1 { color: var(--deep-rose); font-family: "Cormorant Garamond", serif; font-siz
 }
 
 .photo-panel--frase {
-  background-image: linear-gradient(180deg, rgba(255,255,255,.18), rgba(0,0,0,.16)), url("assets/Flores.jpeg");
+  background-image: linear-gradient(180deg, rgba(255,255,255,.18), rgba(0,0,0,.16)), url("./invitacion-xv-zoe/assets/Flores.jpeg");
 }
 
 .photo-panel--lugar {
-  background-image: linear-gradient(180deg, rgba(255,255,255,.15), rgba(0,0,0,.2)), url("assets/WhatsApp-Image-2026-09-19-at-6.23.45-PM.jpeg");
+  background-image: linear-gradient(180deg, rgba(255,255,255,.15), rgba(0,0,0,.2)), url("./invitacion-xv-zoe/assets/WhatsApp-Image-2026-09-19-at-6.23.45-PM.jpeg");
 }
 
 .photo-panel--confirmacion {
-  background-image: linear-gradient(180deg, rgba(255,255,255,.18), rgba(0,0,0,.22)), url("assets/Flores-2.jpeg");
+  background-image: linear-gradient(180deg, rgba(255,255,255,.18), rgba(0,0,0,.22)), url("./invitacion-xv-zoe/assets/Flores-2.jpeg");
 }
 
 .photo-card {
@@ -361,7 +361,7 @@ h1 { color: var(--deep-rose); font-family: "Cormorant Garamond", serif; font-siz
   color: var(--paper);
   padding: 57px 24px 61px;
   text-align: center;
-  background-image: linear-gradient(180deg, rgba(189,117,132,.86), rgba(151,90,106,.9)), url("assets/Flores-2.jpeg");
+  background-image: linear-gradient(180deg, rgba(189,117,132,.86), rgba(151,90,106,.9)), url("./invitacion-xv-zoe/assets/Flores-2.jpeg");
   background-size: cover;
   background-position: center;
 }
